@@ -1,0 +1,314 @@
+/* STYLE SECTIONING TAGS */
+* { /* Reset the space of the webpage */
+   margin: 0px;
+   padding: 0px;
+}
+
+body {
+ background-color: #b3d9ff; 
+ text-align: center;
+ background-size: cover;
+}
+
+/* STYLE TEXT */
+
+h1 {
+  color: #141414;
+  font-family: font-family: Arial, Helvetica, sans-serif;
+  font-size: 80px;
+  margin-top: 40px;
+}
+#smalltext1 {#141414;
+  font-family: font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  margin-top: 20px;}
+
+  #RSW1{#d9b3ff;
+  font-family: font-family: Arial, Helvetica, sans-serif;
+  font-size: 40px;
+  margin-top: 30px;
+  }
+  
+  #AT1 {  color: black;
+  font-family: font-family: Arial, Helvetica, sans-serif;
+  font-size: 80px;
+  margin-top: 40px;
+  }
+  #FST1{ black;
+  font-family: font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  margin-top: 40px; 
+  }
+
+  #FST2{#141414;
+  font-family: font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  margin-top: 40px;
+  }
+
+  #link2 {font-family:font-family: Arial, Helvetica, sans-serif;
+  font-sixe: 30px;
+  margin-top: 40px;
+  }
+
+  #factText {
+    font-family: font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  text-align: center;
+  }
+
+  #Creds { font-family: font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  text-align: center;
+  }
+
+  #AM1 {font-family: font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  text-align: center;
+  }
+
+  #P2{font-family: font-family: Arial, Helvetica, sans-serif;;
+    font-size: 30px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  text-align: center;
+  }
+
+  #RT1 { font-family: font-family: Arial, Helvetica, sans-serif;;
+    font-size: 20px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  text-align: center;
+   margin-top: 10px;
+  margin-bottom: 10px;
+  margin-right: 20%;
+  margin-left: 20%;
+  text-align: center;
+  color:black;
+  line-height: 1.6;
+  }
+  #RT2 { font-family: font-family: Arial, Helvetica, sans-serif;;
+    font-size: 20px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  text-align: center;
+   margin-top: 10px;
+  margin-bottom: 10px;
+  margin-right: 20%;
+  margin-left: 20%;
+  text-align: center;
+  color:black;
+  line-height: 1.6;
+  }
+  #RT3 { font-family: font-family: Arial, Helvetica, sans-serif;;
+    font-size: 20px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  text-align: center;
+   margin-top: 10px;
+  margin-bottom: 10px;
+  margin-right: 20%;
+  margin-left: 20%;
+  text-align: center;
+  color:black;
+  line-height: 1.6;
+  }
+
+  #Staywoke{font-family: font-family: Arial, Helvetica, sans-serif;;
+    font-size: 20px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  text-align: center;
+   margin-top: 10px;
+  margin-bottom: 10px;
+  margin-right: 20%;
+  margin-left: 20%;
+  text-align: center;
+  color:black;
+  line-height: 1.6;
+
+  }
+  "RH1" {font-family: font-family: Arial, Helvetica, sans-serif;;
+    font-size: 30px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  text-align: center;
+  }
+#Ip1{font-family: font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  text-align: center;
+   margin-top: 10px;
+  margin-bottom: 10px;
+  margin-right: 20%;
+  margin-left: 20%;
+  text-align: center;
+  color:black;
+  line-height: 1.6;
+
+}
+
+#Creds1{font-family: font-family: Arial, Helvetica, sans-serif;;
+    font-size: 30px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  text-align: center;
+
+}
+
+  #AboutImage {width:  50 cm;
+  /*centering the Image*/
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 100%;
+  height: auto;
+    border-radius: 100%;
+  max-height: 100%;
+  border: 2px solid black;
+  margin-bottom: 3em;
+  margin-top: 30px;
+  border-color: #ffb3b3;
+  border-width: 8px;
+  border-style
+}
+
+/* STYLE IMAGES */
+
+iframe{
+  margin-top: 30px;
+  width: 768px;
+  height: 432px;
+  border-color: #ffb3b3;
+  border-width: 8px;
+  border-style
+}
+
+
+/* STYLE NAV BAR */
+ul { 
+  list-style-type:lightcyan;
+  background-color: white;
+  overflow: hidden;
+  padding: .5em;
+}
+
+li{display: inLine;
+font-size: 20px;
+}
+
+li a {
+  text-decoration: none;
+  color: black;
+  font-size: 1.3em;
+  padding: 1em;
+  font-family: font-family: Arial, Helvetica, sans-serif;;
+}
+
+li a:hover { 
+  background-color: #ffb3b3;
+}
+
+/* STYLE BUTTONS */
+button { 
+  color:black;
+  font-family: font-family: Arial, Helvetica, sans-serif;;
+  font-size: 18px;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  height: 200%;
+  width: 200px;
+  border: 2px solid black;
+  margin-bottom: 3em;
+  
+}
+
+button:hover {
+  background-color: #ffb3b3;
+   opacity: 1;
+   
+ }
+/* ADD MORE! */
+
+#clickButton {
+  font-family: font-family: Arial, Helvetica, sans-serif;
+  font-size: 25px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+#fact {
+  font-family: font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  font-size: 55px;
+ margin-top: 50px;
+  margin-bottom: 50px;
+  color: #141414;
+}
+
+iframe {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  text-align: center;
+  width: 350px;
+  box-shadow: White;
+
+}
+
+
+#frame1 {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  text-align: center;
+  margin-top: 5ex;
+  width: 350px;
+  box-shadow: White;
+}
+
+  #button1 {background-color: #ffb3b3;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+    font-family: font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    font-size: 13px;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    margin-bottom: 4em;
+    margin-top: 4em;
+
+   button1:hover {
+  background-color: rgba(93, 170, 189, 0.438);
+   opacity: 1;
+ }
+
+ #button2{background-color: #ffb3b3;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+    font-family: font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    font-size: 13px;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    margin-bottom: 4em;
+
+   button1:hover {
+  background-color: rgba(93, 170, 189, 0.438);
+   opacity: 1;
+
+ }
+
